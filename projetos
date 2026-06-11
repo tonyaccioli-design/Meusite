@@ -1,0 +1,14 @@
+/
+├── index.html
+├── assets/
+│   ├── aguila-cosenza.webp
+│   ├── cn-servicos.webp
+│   ├── fio-de-amor.webp
+│   └── ...
+└── projetos/
+    ├── aguila-cosenza/
+    │   └── index.html
+    ├── cn-servicos/
+    │   └── index.html
+    └── fio-de-amor/
+        └── index.html
