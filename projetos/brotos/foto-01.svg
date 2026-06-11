@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#17351f"/>
+  <rect x="140" y="110" width="920" height="540" rx="34" fill="#eff8ee"/>
+  <path d="M330 520c20-170 120-265 300-285-25 166-123 260-300 285z" fill="#5ca66b"/>
+  <text x="640" y="370" fill="#17351f" font-family="Georgia, serif" font-size="86">Brotos</text>
+</svg>

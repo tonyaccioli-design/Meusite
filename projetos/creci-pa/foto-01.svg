@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#0b1d3a"/>
+  <rect x="160" y="90" width="320" height="580" rx="30" fill="#ffffff"/>
+  <rect x="520" y="90" width="320" height="580" rx="30" fill="#ffffff"/>
+  <rect x="880" y="90" width="160" height="580" rx="30" fill="#116bff"/>
+  <rect x="200" y="150" width="240" height="210" rx="18" fill="#116bff"/>
+  <rect x="560" y="150" width="240" height="210" rx="18" fill="#86b7ff"/>
+  <text x="210" y="488" fill="#161616" font-family="Arial, sans-serif" font-size="42" font-weight="700">Post</text>
+  <text x="570" y="488" fill="#161616" font-family="Arial, sans-serif" font-size="42" font-weight="700">Carrossel</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#25161b"/>
+  <rect x="145" y="155" width="910" height="450" rx="24" fill="#fff6f8"/>
+  <path d="M600 270c54-64 156-28 156 56 0 100-156 184-156 184S444 426 444 326c0-84 102-120 156-56z" fill="#d13f68"/>
+  <text x="292" y="585" fill="#25161b" font-family="Georgia, serif" font-size="72">Fio de Amor</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#211916"/>
+  <rect x="165" y="95" width="360" height="570" rx="32" fill="#f7f0ea"/>
+  <rect x="675" y="95" width="360" height="570" rx="32" fill="#f7f0ea"/>
+  <circle cx="345" cy="275" r="92" fill="#d7a77b"/>
+  <circle cx="855" cy="275" r="92" fill="#c9923b"/>
+  <text x="235" y="500" fill="#161616" font-family="Arial, sans-serif" font-size="42" font-weight="700">Story</text>
+  <text x="752" y="500" fill="#161616" font-family="Arial, sans-serif" font-size="42" font-weight="700">Feed</text>
+</svg>
