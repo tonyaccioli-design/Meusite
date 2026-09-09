@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
-  <rect width="1200" height="760" fill="#eff8ee"/>
-  <rect x="115" y="115" width="300" height="530" rx="30" fill="#5ca66b"/>
-  <rect x="450" y="115" width="300" height="530" rx="30" fill="#9bd18b"/>
-  <rect x="785" y="115" width="300" height="530" rx="30" fill="#17351f"/>
-  <text x="195" y="400" fill="#ffffff" font-family="Arial Black, sans-serif" font-size="54">01</text>
-  <text x="530" y="400" fill="#17351f" font-family="Arial Black, sans-serif" font-size="54">02</text>
-  <text x="865" y="400" fill="#ffffff" font-family="Arial Black, sans-serif" font-size="54">03</text>
-</svg>

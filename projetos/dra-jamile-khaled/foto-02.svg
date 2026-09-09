@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
-  <rect width="1200" height="760" fill="#fffaf5"/>
-  <rect x="115" y="120" width="970" height="520" rx="26" fill="#d7a77b"/>
-  <text x="190" y="315" fill="#ffffff" font-family="Georgia, serif" font-size="88">Saúde e estética</text>
-  <path d="M190 405h620" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
-  <path d="M190 470h420" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
-</svg>
