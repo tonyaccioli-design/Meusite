@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#fff7ef"/>
+  <circle cx="330" cy="380" r="210" fill="#d95f43"/>
+  <circle cx="760" cy="350" r="170" fill="#f7b267"/>
+  <rect x="155" y="525" width="870" height="72" rx="18" fill="#161616"/>
+  <text x="190" y="578" fill="#ffffff" font-family="Georgia, serif" font-size="52">Comidinha Caseira</text>
+  <text x="640" y="582" fill="#ffd8bd" font-family="Arial, sans-serif" font-size="28">Material gráfico</text>
+</svg>

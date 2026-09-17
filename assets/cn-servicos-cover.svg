@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 632 316" role="img" aria-labelledby="title desc">
+  <title id="title">CN Serviços</title>
+  <desc id="desc">Marca CN Serviços em preto sobre fundo branco.</desc>
+  <rect width="632" height="316" fill="#ffffff"/>
+
+  <path
+    d="M300.5 52.5C249 5.5 168.5-7.5 100.5 26.5C42.5 55.5 7 111 5.5 156.5C4 215 43 268.5 101.5 293C166.5 320 246 301 299 253"
+    fill="none"
+    stroke="#000000"
+    stroke-width="9"
+    stroke-linecap="round"
+  />
+
+  <g fill="#000000">
+    <path
+      d="M76 116c23-22 57-29 89-20 19 6 36 17 49 31l-32 31c-18-18-44-25-69-17-27 9-45 32-46 59-1 25 14 49 38 61 26 13 58 8 79-12l33 32c-31 31-80 40-121 22-40-18-65-56-64-101 1-33 16-63 44-86z"
+    />
+    <path
+      d="M66 148l42 16c-7 19-7 39 0 58l-42 16c-15-29-15-61 0-90z"
+    />
+    <path
+      d="M206 101h27l74 81v-80h23v124h-29l-73-82v82h-23V125l-10-10 11-14z"
+    />
+    <path d="M233 101h21l71 80-19 17-72-80z"/>
+  </g>
+
+  <text
+    x="340"
+    y="194"
+    fill="#000000"
+    font-family="Impact, 'Arial Black', 'Arial Narrow', sans-serif"
+    font-size="60"
+    font-weight="900"
+    letter-spacing="-1"
+  >SERVIÇOS</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#fff7ef"/>
+  <rect x="180" y="145" width="840" height="470" rx="24" fill="#d95f43"/>
+  <text x="250" y="315" fill="#ffffff" font-family="Georgia, serif" font-size="86">Sabor de casa</text>
+  <path d="M255 410h545" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
+  <path d="M255 478h360" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
+</svg>

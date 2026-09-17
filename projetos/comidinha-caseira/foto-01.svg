@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#2d1610"/>
+  <rect x="145" y="95" width="910" height="570" rx="34" fill="#fff7ef"/>
+  <circle cx="380" cy="355" r="150" fill="#d95f43"/>
+  <circle cx="760" cy="355" r="150" fill="#f7b267"/>
+  <text x="295" y="585" fill="#161616" font-family="Georgia, serif" font-size="70">Cardápio</text>
+</svg>
